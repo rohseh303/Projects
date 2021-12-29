@@ -1,0 +1,41 @@
+Class documentation
+<---- javadoc command: ---->
+/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.base.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.controls.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.fxml.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.graphics.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.media.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.properties.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.swing.jar:/private/var/folders/l9/17652zlj5lbdj0zz_1lyvmkc0000gn/T/AppTranslocation/1EF82CEB-CE2C-4645-876F-AFF0154FCCD9/d/BlueJ.app/Contents/Resources/Java/javafx/lib/javafx.web.jar:/Users/rohansehgal/Desktop/YourFolder/SortingGame
+-d
+/Users/rohansehgal/Desktop/YourFolder/SortingGame/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/rohansehgal/Desktop/YourFolder/SortingGame/Stopwatch.java
+<---- end of javadoc command ---->
+Loading source file /Users/rohansehgal/Desktop/YourFolder/SortingGame/Stopwatch.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating /Users/rohansehgal/Desktop/YourFolder/SortingGame/doc/Stopwatch.html...
+/Users/rohansehgal/Desktop/YourFolder/SortingGame/Stopwatch.java:29: warning - @param argument "none" is not a parameter name.
+/Users/rohansehgal/Desktop/YourFolder/SortingGame/Stopwatch.java:32: warning - @return tag cannot be used in method with void return type.
+/Users/rohansehgal/Desktop/YourFolder/SortingGame/Stopwatch.java:52: warning - @param argument "none" is not a parameter name.
+/Users/rohansehgal/Desktop/YourFolder/SortingGame/Stopwatch.java:62: warning - @param argument "none" is not a parameter name.
+Generating /Users/rohansehgal/Desktop/YourFolder/SortingGame/doc/package-summary.html...
+Generating /Users/rohansehgal/Desktop/YourFolder/SortingGame/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/rohansehgal/Desktop/YourFolder/SortingGame/doc/allclasses.html...
+Generating /Users/rohansehgal/Desktop/YourFolder/SortingGame/doc/allclasses.html...
+Generating /Users/rohansehgal/Desktop/YourFolder/SortingGame/doc/index.html...
+4 warnings

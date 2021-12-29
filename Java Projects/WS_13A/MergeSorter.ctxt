@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MergeSorter
+comment0.text=\nThe\ sort\ method\ of\ this\ class\ sorts\ an\ array,\ using\ the\ merge\nsort\ algorithm.\n
+comment1.params=a
+comment1.target=void\ sort(java.lang.String[])
+comment1.text=\n\ Sorts\ an\ array,\ using\ merge\ sort\ -\ this\ is\ a\ recursive\ method\n\ @param\ a\ the\ array\ to\ sort\n
+comment2.params=first\ second\ a
+comment2.target=void\ merge(java.lang.String[],\ java.lang.String[],\ java.lang.String[])
+comment2.text=\n\ Merges\ two\ sorted\ arrays\ into\ an\ array.\n\ @param\ first\ the\ first\ sorted\ array\n\ @param\ second\ the\ second\ sorted\ array\n
+numComments=3

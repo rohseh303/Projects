@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=P77
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=seating
+comment2.target=void\ printSeats(int[][])
+comment3.params=seatingChart
+comment3.target=void\ sellSeatByPrice(int[][])
+comment4.params=seatingChart
+comment4.target=void\ sellSeatByNumber(int[][])
+numComments=5

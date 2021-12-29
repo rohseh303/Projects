@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\ \n\ Write\ a\ description\ of\ class\ CIrcle\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=centerX\ centerY\ radius
+comment1.target=Circle(double,\ double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CIrcle\n
+comment2.params=
+comment2.target=double\ getRadius()
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment3.params=g2
+comment3.target=void\ draw(java.awt.Graphics2D)
+comment4.params=dx\ dy
+comment4.target=void\ translate(double,\ double)
+numComments=5

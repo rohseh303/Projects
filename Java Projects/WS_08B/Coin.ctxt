@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\n\ This\ class\ represents\ one\ kind\ of\ coin,\ with\ a\ value\ and\ name.\n\ \n\ @author\ A.\ Nguyen\ \n\ @version\ 1.0\n
+comment1.params=aValue\ aName
+comment1.target=Coin(double,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getValue()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+numComments=4

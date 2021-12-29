@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=x\ y\ approxLen
+comment1.target=Shape(int,\ int,\ int)
+comment1.text=\n\ \ \ \ \ \ Constructs\ a\ car\ with\ a\ given\ top\ left\ corner.\n\ \ \ \ \ \ @param\ x\ the\ x\ coordinate\ of\ the\ top\ left\ corner\n\ \ \ \ \ \ @param\ y\ the\ y\ coordinate\ of\ the\ top\ left\ corner\n\ \ \ \ \ \ @param\ approxLen\ the\ approximate\ length\ of\ the\ car;\ the\ car's\ height\ if\ half\ of\ the\ length\n
+comment2.params=g2
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment2.text=\n\ \ \ \ \ \ Draws\ the\ car.\n\ \ \ \ \ \ @param\ g2\ the\ graphics\ context\n
+numComments=3

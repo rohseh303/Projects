@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Dataset
+comment1.params=
+comment1.target=Dataset()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Dataset\n
+comment2.params=value
+comment2.target=void\ add(float)
+comment3.params=
+comment3.target=float\ getAverage()
+comment4.params=
+comment4.target=float\ getSmallest()
+comment5.params=
+comment5.target=float\ getLargest()
+comment6.params=
+comment6.target=float\ getRange()
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RationalNumber
+comment1.params=numerator\ denominator
+comment1.target=RationalNumber(int,\ int)
+comment2.params=
+comment2.target=RationalNumber()
+comment3.params=
+comment3.target=int\ getDenominator()
+comment4.params=
+comment4.target=int\ getNumerator()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

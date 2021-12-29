@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BankAccount
+comment0.text=\n\ The\ class\ simulates\ a\ bank\ account\ and\ provides\ methods\ such\ as\ depositing,\n\ withdrawing,\ and\ viewing\ the\ balance.\n\n\ @Sidarth\ Raman\n\ @6/26/20\n
+comment1.params=
+comment1.target=BankAccount()
+comment2.params=initAmt
+comment2.target=BankAccount(double)
+comment3.params=amt
+comment3.target=void\ deposit(double)
+comment4.params=amt
+comment4.target=void\ withdraw(double)
+comment5.params=
+comment5.target=double\ getBalance()
+comment6.params=rate
+comment6.target=void\ addInterest(double)
+numComments=7

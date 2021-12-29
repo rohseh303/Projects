@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=E421
+comment1.params=
+comment1.target=E421()
+comment2.params=in
+comment2.target=void\ recordAmount(double)
+comment3.params=
+comment3.target=double\ giveChange()
+comment4.params=dol
+comment4.target=void\ enterDollars(int)
+comment5.params=quart
+comment5.target=void\ enterQuarters(int)
+comment6.params=dime
+comment6.target=void\ enterDimes(int)
+comment7.params=nickel
+comment7.target=void\ enterNickels(int)
+comment8.params=pen
+comment8.target=void\ enterPennies(int)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
