@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Words
-comment1.params=words\ n
-comment1.target=java.lang.String\ nthShortWord(java.lang.String[],\ int)
-comment1.text=\n\ \ \ \ \ \ Returns\ the\ nth\ short\ word\ (length\ <\=\ 3)\ in\ an\ array.\n\ \ \ \ \ \ @param\ words\ an\ array\ of\ strings\n\ \ \ \ \ \ @param\ n\ an\ integer\ >\ 0\n\ \ \ \ \ \ @return\ the\ nth\ short\ word\ in\ words,\ or\ the\ empty\ string\ if\ there\ is\n\ \ \ \ \ \ no\ such\ word\n
-numComments=2

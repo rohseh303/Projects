@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=OddSum
-comment0.text=\n\ \ \ Computes\ a\ sum\ of\ odd\ integers\ between\ two\ bounds.\ \n\ \ \ Input\:\ a,\ the\ lower\ bound\ (may\ be\ odd\ or\ even).\n\ \ \ Input\:\ b,\ the\ upper\ bound\ (may\ be\ odd\ or\ even).\n\ \ \ Output\:\ sum\ of\ odd\ integers\ between\ a\ and\ b\ (inclusive).\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
